@@ -1,4 +1,4 @@
 # kidsway
-e commerse website
+e commerse website,
 it is a simple ecommerse website
 
